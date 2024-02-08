@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  config-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-08T09:30:19.225368+01:00"
+    description: A test chart that verifies its config
+    digest: b5e40671363836169c45f3c1bcdfa62898f2e3a34607166900bd0ebd1131a8ef
+    name: config-chart
+    type: application
+    urls:
+    - 0xavi0.github.io/config-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-08T09:30:19.224891+01:00"
